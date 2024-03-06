@@ -11,10 +11,11 @@ Processed data for this project can be found at https://doi.org/10.5281/zenodo.1
 Raw data can be found at https://m4-2dcc.vmhost.psu.edu/list/data/RVJkDr8j1RPU
 
 # Workflows
-- Regression and Segmentation models: notebooks/training
+- Regression models: notebooks/regression
+- Segmentation models: notebooks/segmentation
 - Plots: notebooks/plots
 - codes: codes
-- plots obtained: Result
+- plots and data from models: Result
 . 
 # To cite
 @article{moses2023crystal,
