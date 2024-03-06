@@ -16,6 +16,7 @@ Raw data can be found at https://m4-2dcc.vmhost.psu.edu/list/data/RVJkDr8j1RPU
 - Plots: notebooks/plots
 - codes: codes
 - plots and data from models: Result
+- Trained models: Models
 . 
 # To cite
 @article{moses2023crystal,
