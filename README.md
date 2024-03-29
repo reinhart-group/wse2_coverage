@@ -19,12 +19,12 @@ Raw data can be found at https://m4-2dcc.vmhost.psu.edu/list/data/RVJkDr8j1RPU
 - Trained models: Models
 . 
 # To cite
-@article{moses2023crystal,
-  title={Crystal Growth Characterization of WSe $ \_2 $ Thin Film Using Machine Learning},
+@article{moses2024crystal,
+  title={Crystal growth characterization of WSe2 thin film using machine learning},
   author={Moses, Isaiah A and Wu, Chengyin and Reinhart, Wesley F},
-  journal={arXiv preprint arXiv:2312.14311},
-  year={2023}
+  journal={Materials Today Advances},
+  volume={22},
+  pages={100483},
+  year={2024},
+  publisher={Elsevier}
 }
-
-
-
